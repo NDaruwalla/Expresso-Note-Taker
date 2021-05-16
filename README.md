@@ -1,4 +1,4 @@
-# Expresso Note Taker
+# Expresso Note Taker (./Assets/img/icons8-coffee.png)
 
   ## Description
   The Expresso Note Taker features Express.js back end and retrieves note data from a JSON file. I modified starter code to create the Note Taker application that can be used to write and save notes. 
