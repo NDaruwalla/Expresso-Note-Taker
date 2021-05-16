@@ -1,5 +1,5 @@
-# Expresso Note Taker  
-![Expresso Note Taker](./Assets/img/icons8-coffee.png)()
+# Expresso Note Taker 
+![Expresso Note Taker](./Assets/img/icons8-coffee.png)
 
   ## Description
   The Expresso Note Taker features Express.js back end and retrieves note data from a JSON file. I modified starter code to create the Note Taker application that can be used to write and save notes. 
@@ -58,10 +58,10 @@
 
   ## Installation
 
-  [Node JS](https://nodejs.org/en/download/)
-  [Express.js](https://expressjs.com/)
-  [Get a free Heroku account:](https://signup.heroku.com/)
-  [Heroku Installer](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
+  * [Node JS](https://nodejs.org/en/download/)
+  * [Express.js](https://expressjs.com/)
+  * [Get a free Heroku account:](https://signup.heroku.com/)
+  * [Heroku Installer](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
 
   ## Use
   Use this application for taking notes.
