@@ -9,10 +9,10 @@
   [Expresso Note Taker](https://x)
 
   ### Link to Application Files on GitHub 
-  [Expresso Note Taker](https://x)
+  [Expresso Note Taker](https://github.com/NDaruwalla/Expresso-Note-Taker)
 
   ### Screen Capture
-  ![Expresso Note Taker](./img/.jpg)
+  ![Expresso Note Taker](./img/expresso.jpg)
 
 
   ## Table of Contents
@@ -56,9 +56,11 @@
   The tools used to create this application include: Visual Studio Code, Express.js, JavaScript, Heroku, Git Bash
 
   ## Installation
-  Install ...
-  [APPLICATION NAME](https://x)
-  [APPLICATION NAME](https://x)
+
+  [Node JS](https://nodejs.org/en/download/)
+  [Express.js](https://expressjs.com/)
+  [Get a free Heroku account:](https://signup.heroku.com/)
+  [Heroku Installer](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
 
   ## Use
   Use this application for taking notes.
@@ -89,9 +91,12 @@
 
   ## References
   The following references were used to create this application: 
-  links here....
+  * Mini UNH Fullstack Bootcamp mini activity 05/15/21
+  * https://www.npmjs.com/
+  * https://expressjs.com/en/guide/routing.html
+  * https://docs.npmjs.com/
 
- 
+
   ## Tests
   No tests are included at this time.
 
