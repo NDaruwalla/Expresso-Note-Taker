@@ -7,7 +7,7 @@
   The application’s front end was already created. I built the back end, connected the two, and then deployed the entire application to Heroku.
 
   ### Link to Application on Heroku 
-  [Expresso Note Taker](https://x)
+  [Expresso Note Taker](https://desolate-springs-12268.herokuapp.com/)
 
   ### Link to Application Files on GitHub 
   [Expresso Note Taker](https://github.com/NDaruwalla/Expresso-Note-Taker)
