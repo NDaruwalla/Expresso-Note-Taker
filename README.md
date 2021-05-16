@@ -64,7 +64,8 @@
   * [Heroku Installer](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
 
   ## Use
-  Use this application for taking notes.
+  Use this application for taking notes. It is hosted at Heroku here: [Expresso Note Taker](https://x)
+  To launch, open your terminal and run node server.js. Then open a browser and enter localhost:8080.
 
   ## How it Works
   The application has a `db.json` file on the back end that is used to store and retrieve notes using the `fs` module.
