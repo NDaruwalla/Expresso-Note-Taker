@@ -96,6 +96,8 @@
   * Mini UNH Fullstack Bootcamp mini activity 05/15/21
   * https://www.npmjs.com/
   * https://expressjs.com/en/guide/routing.html
+  * https://expressjs.com/en/starter/basic-routing.html
+  * https://expressjs.com/en/starter/hello-world.html
   * https://docs.npmjs.com/
 
 
