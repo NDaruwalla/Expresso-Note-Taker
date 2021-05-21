@@ -4,7 +4,7 @@
   ## Description
   The Expresso Note Taker features Express.js back end and retrieves note data from a JSON file. I modified starter code to create the Note Taker application that can be used to write and save notes. 
 
-  The application’s front end was already created. I built the back end, connected the two, and then deployed the entire application to Heroku.
+  The application’s front end was already created and I made minor customizations to it to add some personality. I built the back end, connected the two, and then deployed the entire application to Heroku.
 
   ### Link to Application on Heroku 
   [Expresso Note Taker](https://desolate-springs-12268.herokuapp.com/)
@@ -99,6 +99,7 @@
   * https://expressjs.com/en/starter/basic-routing.html
   * https://expressjs.com/en/starter/hello-world.html
   * https://docs.npmjs.com/
+  * others as noted in the code comments
 
 
   ## Tests

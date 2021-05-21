@@ -5,10 +5,19 @@ body {
   padding: 0;
   
 }
+/* https://www.geeksforgeeks.org/how-to-change-navigation-bar-color-in-bootstrap/ */
+/* Modify the background color */
+.navbar-custom {
+  background-color: rgb(19, 17, 17);
+    }
+/* Modify brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: bisque;
+    }
 
-.headline {
-  background-color: #080808;
-}
+
+
 .save-note {
   display: none;
 }
