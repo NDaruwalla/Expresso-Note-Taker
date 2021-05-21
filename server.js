@@ -16,7 +16,7 @@ const path = require("path");
 //https://expressjs.com/en/guide/routing.html
 const app = express();
 // Sets an Initial port for listeners
-const PORT = process.env.PORT || 9026;
+const PORT = process.env.PORT || 9023;
 
 //  Initialize the variable for the itemInput array
 let itemInput = [];
