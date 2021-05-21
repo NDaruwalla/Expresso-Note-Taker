@@ -13,7 +13,11 @@
   [Expresso Note Taker](https://github.com/NDaruwalla/Expresso-Note-Taker)
 
   ### Screen Capture
+  Landing Page
   ![Expresso Note Taker](./img/expresso.jpg)
+
+  Notes Page
+  ![Expresso Note Taker](./img/expresso2.jpg)
 
 
   ## Table of Contents
