@@ -14,10 +14,10 @@
 
   ### Screen Capture
   Landing Page
-  ![Expresso Note Taker](./img/expresso.jpg)
+  ![Expresso Note Taker](./Assets/img/expresso.jpg)
 
   Notes Page
-  ![Expresso Note Taker](./img/expresso2.jpg)
+  ![Expresso Note Taker](./Assets/img/expresso2.jpg)
 
 
   ## Table of Contents
