@@ -3,8 +3,12 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
+  
 }
 
+.headline {
+  background-color: #080808;
+}
 .save-note {
   display: none;
 }
